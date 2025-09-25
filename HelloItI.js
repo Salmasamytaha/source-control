@@ -9,3 +9,4 @@ class HelloITI{
 let hi= new HelloITI();
 hi.printHelloITI();
 hi.printHelloGit();
+const y = 10 ;
